@@ -30,4 +30,4 @@
 -  Canvas
 
 
-Ссылка на проект:
+Ссылка на проект:https://otteliya2035.github.io/Billiard-demo/
