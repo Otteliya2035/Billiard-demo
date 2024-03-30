@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Billiard-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/Billiard-demo/static/js/main.c9d59065.js",
+    "static/js/453.3ab99bb2.chunk.js": "/Billiard-demo/static/js/453.3ab99bb2.chunk.js",
+    "index.html": "/Billiard-demo/index.html",
+    "main.e6c13ad2.css.map": "/Billiard-demo/static/css/main.e6c13ad2.css.map",
+    "main.c9d59065.js.map": "/Billiard-demo/static/js/main.c9d59065.js.map",
+    "453.3ab99bb2.chunk.js.map": "/Billiard-demo/static/js/453.3ab99bb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c9d59065.js"
+  ]
+}
